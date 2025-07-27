@@ -1,7 +1,7 @@
 # **Industrial Robot Trajectory-Power Dataset (IRTP-2700)**
 
-This repository provides access to the IRTP-2700 dataset, a curated collection of 2,700 trajectory-power samples collected from a physical 6-degree-of-freedom (6-DOF) industrial robotic platform under various operating conditions (including different loads, velocities, and accelerations). The dataset is designed to support research on energy consumption (EC) prediction and optimization for industrial robots.
 
+This repository provides access to the IRTP-2700 dataset, which contains 2,700 samples. Each sample includes joint-level trajectory data and corresponding total power consumption of the 6-DOF industrial robots, collected under varying operating conditions (e.g., different loads, velocities, and accelerations). The dataset is intended to support research on energy consumption prediction and optimization for industrial robots.
 
 
 ## **📖 Related Publication**
