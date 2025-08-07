@@ -10,12 +10,9 @@ If you use this dataset in your research or publications, **please cite the foll
 
 **Title: A Dual-stage Energy Consumption Prediction Model for Industrial Robots Considering Load Dynamics**
 
-**Authors: Qiangxiao Zhou， Long Cheng***
 
 (The URL will be added once the article is online.)
 
-If you found any problem, please communicate it at:
-q.x.zhou.work@gmail.com
 
 
 ## **📂 Folder Structure**
